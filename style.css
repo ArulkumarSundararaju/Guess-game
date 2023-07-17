@@ -1,0 +1,58 @@
+
+
+body{
+    background-color: rgba(250, 71, 190, 0.651);
+    display: flex;
+    justify-content: center;
+}
+    
+   
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 13%;
+    
+
+    
+}
+
+.cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10%;
+    
+    
+}
+button{
+
+    width: 10em;
+    height: 5em;
+    background-color: rgb(22, 96, 206);
+    color: white;
+    border-radius: 3px;
+}
+
+input{
+    width: 20em;
+    height: 5em;
+    background-color: rgb(78, 236, 245);
+}
+
+#win
+{
+
+   margin-top:250px;
+   
+   
+}
+#lose
+{
+
+   margin-top:250px;
+   
+   
+}
